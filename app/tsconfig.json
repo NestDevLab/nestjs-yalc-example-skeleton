@@ -211,6 +211,14 @@
       "@nestjs-yalc/types-extends/*": [
         "../node_modules/@nestjs-yalc/types-extends/*",
         "../node_modules/@nestjs-yalc/types-extends/src/*"
+      ],
+      "@nestjs-yalc/omnikernel-module": [
+        "../node_modules/@nestjs-yalc/omnikernel-module/src/index.js",
+        "../node_modules/@nestjs-yalc/omnikernel-module/src/index.d.ts"
+      ],
+      "@nestjs-yalc/omnikernel-module/*": [
+        "../node_modules/@nestjs-yalc/omnikernel-module/*",
+        "../node_modules/@nestjs-yalc/omnikernel-module/src/*"
       ]
     }
   },
